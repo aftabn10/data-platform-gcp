@@ -1,0 +1,7 @@
+data_feeds_national_rail/
+Docs/
+Examples/
+# Ignore local Terraform state files
+*.tfstate
+*.tfstate.backup
+.terraform/
